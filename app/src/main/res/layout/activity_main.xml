@@ -156,15 +156,15 @@
 
     <Button
         android:id="@+id/signup"
-        android:layout_width="346dp"
-        android:layout_height="72dp"
+        android:layout_width="330dp"
+        android:layout_height="65dp"
         android:layout_marginStart="21dp"
         android:layout_marginTop="11dp"
         android:layout_marginEnd="182dp"
         android:layout_marginBottom="135dp"
+        android:backgroundTint="@color/red"
         android:text="Sign Up"
         android:textSize="25dp"
-        android:backgroundTint="@color/red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
